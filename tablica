@@ -1,9 +1,15 @@
 <html>
+    <meta charset="UTF-8">
     <head>
+
         <title>tablica</title>
         <body bgcolor=" SlateBlue " /body>
+        <style>
+            table,th,td {border:2px, skyblue; border-style: ridge; border-color: blue;}
+            th, td {background-color: aqua;}
+        </style>
     </head>
-<table>
+<table style="width: 50% ">
     <tr>
      <th>cvjece</th>
      <th>voce</th>
@@ -28,7 +34,6 @@
     </tr>
     
 </table>
+<p>#128522</p>
 
-
-</html>
 </html>
