@@ -1,0 +1,50 @@
+.two-tone-hr {
+    border: none;
+    height: 6px;
+    background: linear-gradient(to right, #ff4d4d 50%, #4d79ff 50%);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0 16px 24px;
+    background: #f4f9ff;
+    color: #122032;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 24px;
+}
+
+div {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: auto;
+}
+
+td {
+    padding: 10px 14px;
+    border: 1px solid #cbd5e1;
+}
+
+.main-hr {
+    border: 3.5px solid lightblue;
+    width: 80%;
+    margin: 24px auto;
+}
+
+.section-hr {
+    border: 2px solid red;
+    margin: 24px auto 0;
+    width: 60%;
+}
+
+.spacer-hr {
+    border: 0;
+    margin-top: 24px;
+}
