@@ -25,6 +25,7 @@ table {
     margin: 0 auto;
     border-collapse: collapse;
     width: auto;
+    box-align: center;
 }
 
 td {
